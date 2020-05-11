@@ -1,6 +1,7 @@
 # MonteCarloMethodsStats
 Repository for Monte Carlo Methods in Statistics -- includes code for sampling (rejection, metropolis-hastings, Gibbs) and for Bayesian inference + model selection
-This represents serves as a personal reference for the SDS386D: Monte Carlo Methods In Statistics course at UT Austin
+
+This repository serves as a personal reference for the SDS386D: Monte Carlo Methods In Statistics course at UT Austin
 
 ### Overview
   * Assignment 1: rejection sampling for sampling a probability distribution and evaluation of integrals
