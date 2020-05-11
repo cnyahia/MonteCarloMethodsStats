@@ -12,3 +12,4 @@ This repository serves as a personal reference for the SDS386D: Monte Carlo Meth
   * Assignment 6: sequential Monte Carlo: Kalman filter, particle filter
   * midterm: data augmentation via slice sampling, Bayesian posterior sampling with Gaussian priors, Metropolis-Hastings, Gibbs sampling framework with a Metropolis step
   * final: Bayesian model selection
+![pr](/midterm/samples_prior_2d.png)![pos](/midterm/samples_posterior_2d.png)
