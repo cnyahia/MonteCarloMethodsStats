@@ -5,7 +5,7 @@ This repository serves as a personal reference for the SDS386D: Monte Carlo Meth
 
 ### Overview
   * Assignment 1: rejection sampling, importance sampling
-  * Assignment 2: evaluates an integral using a Gauss-Markov process by exploiting the similarity of the integral with E[f(X)] where X~N(0,1) and showing that the Markov chain corresponds to repetitive sampling of a standard normal
+  * Assignment 2: MCMC
   * Assignment 3: MCMC, Metropolis-Hastings, Bayesian inference
   * Assignment 4: Gibbs sampling, expected value from the predictive density, use of latent variables, Bayesian inference
   * Assignment 5: mixture model, Dirichlet prior, use of latent variables, Gibbs sampling with a Metropolis step
